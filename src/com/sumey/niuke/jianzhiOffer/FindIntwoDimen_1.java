@@ -32,7 +32,7 @@ public class FindIntwoDimen_1 {
             int high = col - 1;
             int middle = 0;
             while (low <= high) {
-                middle = (low + high) / 2;
+                middle = (low + high) >> 1;
                 if (array[i][middle] > target) {
                     high = middle - 1;
                 }
