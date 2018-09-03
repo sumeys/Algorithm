@@ -18,7 +18,7 @@ package com.sumey.niuke.jianzhiOffer;
     }
 }*/
 
-public class RevertLinkList_15 {
+public class s15_RevertLinkList {
     public static ListNode ReverseList(ListNode head) {
         if (null == head) {
             return null;
