@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32e8095f-8d6f-4ddb-afd5-beb7b7092c25" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,26 +23,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="114">
-                <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+              <first_editor relative-caret-position="95">
+                <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoStacktoQueue.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/TwoStacktoQueue.java">
+      <file leaf-file-name="TwoStacktoQueue_5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/TwoStacktoQueue_5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="67">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
                 <element signature="e#220#229#0" expanded="true" />
                 <element signature="e#270#279#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,8 +107,9 @@
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/RevertLinkList_15.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/MergeLinkList_16.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/FindIntwoDimen_1.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/TwoStacktoQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/TwoStacktoQueue_5.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -250,12 +253,12 @@
       <option name="presentableId" value="Default" />
       <updated>1535853287349</updated>
       <workItem from="1535853291961" duration="11170000" />
-      <workItem from="1535971414391" duration="564000" />
+      <workItem from="1535971414391" duration="810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11734000" />
+    <option name="totallyTimeSpent" value="11980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="697" extended-state="6" />
@@ -380,24 +383,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/TwoStacktoQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/TwoStacktoQueue_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="67">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="e#220#229#0" expanded="true" />
             <element signature="e#270#279#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
