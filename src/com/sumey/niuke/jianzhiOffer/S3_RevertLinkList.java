@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  * 题目描述：输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
- * */
+ */
 class ListNode {
     int val;
     ListNode next = null;
@@ -19,7 +19,7 @@ class ListNode {
     }
 }
 
-public class RevertLinkList_3 {
+public class S3_RevertLinkList {
     static ArrayList<Integer> arrayList = new ArrayList<Integer>();
 
     public static ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
