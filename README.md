@@ -6,5 +6,6 @@
         * [3.将链表从尾到头放入到一个数组中](src/com/sumey/niuke/jianzhiOffer/S3_RevertLinkList.java)
         * [4.根据前序和中序遍历构建二叉树](src/com/sumey/niuke/jianzhiOffer/S4_ReConStructBinaryTree.java)
         * [5.两个栈实现队列](src/com/sumey/niuke/jianzhiOffer/S5_TwoStacktoQueue.java)
+        * [7.斐波那契数列](src/com/sumey/niuke/jianzhiOffer/S7_FibSequence.java)
         * [15.反转链表](src/com/sumey/niuke/jianzhiOffer/S15_RevertLinkList.java)
         * [16.Merge链表](src/com/sumey/niuke/jianzhiOffer/S16_MergeLinkList.java)
