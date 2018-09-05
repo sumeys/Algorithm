@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32e8095f-8d6f-4ddb-afd5-beb7b7092c25" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/java/com/sumey/base/dynamic/Dijkstra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java/com/sumey/base/dynamic/Floyd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sumey/base/dynamic/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sumey/base/dynamic/Floyd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,9 +33,35 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="152">
-                <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+                <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Floyd.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sumey/base/dynamic/Floyd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-169">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+              <folding>
+                <element signature="e#1493#1494#0" expanded="true" />
+                <element signature="e#1516#1517#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dijkstra.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sumey/base/dynamic/Dijkstra.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1406">
+              <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
+              <folding>
+                <element signature="e#1996#1997#0" expanded="true" />
+                <element signature="e#2022#2023#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,15 +101,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringBuffer.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7790">
-              <caret line="449" column="37" selection-start-line="449" selection-start-column="37" selection-end-line="449" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="S5_TwoStacktoQueue.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S5_TwoStacktoQueue.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,15 +128,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="S15_RevertLinkList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S15_RevertLinkList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -123,6 +136,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>book</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>isInS</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -145,6 +166,8 @@
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S4_ReConStructBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S3_RevertLinkList.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S7_FibSequence.java" />
+        <option value="$PROJECT_DIR$/src/com/sumey/base/dynamic/Floyd.java" />
+        <option value="$PROJECT_DIR$/src/com/sumey/base/dynamic/Dijkstra.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -187,7 +210,14 @@
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jianzhiOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="sumey" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sumey" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,13 +243,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.S7_FibSequence">
-    <configuration name="RevertLinkList_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sumey.niuke.jianzhiOffer.RevertLinkList_2" />
+  <component name="RunManager" selected="Application.Dijkstra">
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sumey.base.dynamic.Dijkstra" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sumey.niuke.jianzhiOffer.*" />
+          <option name="PATTERN" value="com.sumey.base.dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Floyd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sumey.base.dynamic.Floyd" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sumey.base.dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,16 +284,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="S1_FindIntwoDimen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sumey.niuke.jianzhiOffer.S1_FindIntwoDimen" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sumey.niuke.jianzhiOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="S7_FibSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sumey.niuke.jianzhiOffer.S7_FibSequence" />
       <module name="java" />
@@ -265,19 +295,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.S1_FindIntwoDimen" />
-      <item itemvalue="Application.RevertLinkList_2" />
       <item itemvalue="Application.RevertLinkList_3" />
       <item itemvalue="Application.S15_RevertLinkList" />
       <item itemvalue="Application.S7_FibSequence" />
+      <item itemvalue="Application.Floyd" />
+      <item itemvalue="Application.Dijkstra" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dijkstra" />
+        <item itemvalue="Application.Floyd" />
         <item itemvalue="Application.S7_FibSequence" />
         <item itemvalue="Application.S15_RevertLinkList" />
         <item itemvalue="Application.RevertLinkList_3" />
-        <item itemvalue="Application.RevertLinkList_2" />
-        <item itemvalue="Application.S1_FindIntwoDimen" />
       </list>
     </recent_temporary>
   </component>
@@ -293,12 +323,12 @@
       <updated>1535853287349</updated>
       <workItem from="1535853291961" duration="11170000" />
       <workItem from="1535971414391" duration="5431000" />
-      <workItem from="1536064287926" duration="1902000" />
+      <workItem from="1536064287926" duration="6721000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18503000" />
+    <option name="totallyTimeSpent" value="23322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="697" extended-state="6" />
@@ -314,11 +344,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24666667" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33833334" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20833333" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18820679" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -548,11 +578,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sumey/base/dynamic/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
+          <folding>
+            <element signature="e#1996#1997#0" expanded="true" />
+            <element signature="e#2022#2023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sumey/base/dynamic/Floyd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="e#1493#1494#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="152">
-            <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+            <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>

@@ -1,4 +1,7 @@
 ### 算法薄弱，在此记录下一些个人认为很值得的小题目
+* [图论](src/com/sumey/base/dynamic)  
+    * [狄杰斯特拉算法](src/com/sumey/base/dynamic/Dijkstra.java)  
+    * [Floyd算法](src/com/sumey/base/dynamic/Floyd.java)
 * [牛客网](/src/com/sumey/niuke)
     * [剑指 offer](src/com/sumey/niuke/jianzhiOffer)
         * [1. 二维数组中的查找](src/com/sumey/niuke/jianzhiOffer/S1_FindIntwoDimen.java)
