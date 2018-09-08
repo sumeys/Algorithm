@@ -14,6 +14,8 @@
         * [8.跳台阶](src/com/sumey/niuke/jianzhiOffer/S8_jumpFloor.java)
         * [9.变态跳台阶](src/com/sumey/niuke/jianzhiOffer/S9_jumpFloor2.java)
         * [10.覆盖矩形](src/com/sumey/niuke/jianzhiOffer/S10_rectCover.java)
+        * [11.求二进制1的个数](src/com/sumey/niuke/jianzhiOffer/S11_numberOf1_InBinary.java)
+        * [12.求浮点数的指数](src/com/sumey/niuke/jianzhiOffer/S12_doublePower.java)
         * [15.反转链表](src/com/sumey/niuke/jianzhiOffer/S15_RevertLinkList.java)
         * [16.Merge链表](src/com/sumey/niuke/jianzhiOffer/S16_MergeLinkList.java)
 * [笔试题目](src/com/sumey/writenExam)

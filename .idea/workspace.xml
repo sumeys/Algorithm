@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32e8095f-8d6f-4ddb-afd5-beb7b7092c25" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,41 +15,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <first_editor relative-caret-position="303">
+                <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Floyd.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sumey/base/dynamic/Floyd.java">
+      <file leaf-file-name="S12_doublePower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S12_doublePower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dijkstra.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sumey/base/dynamic/Dijkstra.java">
+      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Math.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1691">
-              <caret line="89" selection-start-line="89" selection-end-line="89" />
+            <state relative-caret-position="-703">
+              <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="S1_FindIntwoDimen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S1_FindIntwoDimen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-543">
+              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="S11_numberOf1_InBinary.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S11_numberOf1_InBinary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -102,15 +116,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="S7_FibSequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S7_FibSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -144,7 +149,6 @@
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/TwoStacktoQueue_5.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/ReplaceSpace_2.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/s1_FindIntwoDimen.java" />
-        <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S1_FindIntwoDimen.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S2_ReplaceSpace.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S4_ReConStructBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S3_RevertLinkList.java" />
@@ -157,6 +161,10 @@
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S8_jumpFloor.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S9_jumpFloor2.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S10_rectCover.java" />
+        <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S1_FindIntwoDimen.java" />
+        <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S11_numberOf1_InBinary.java" />
+        <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S11_doublePower.java" />
+        <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S12_doublePower.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -320,15 +328,16 @@
       <workItem from="1535971414391" duration="5431000" />
       <workItem from="1536064287926" duration="7789000" />
       <workItem from="1536231824846" duration="5642000" />
-      <workItem from="1536397724943" duration="2778000" />
+      <workItem from="1536397724943" duration="4698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32810000" />
+    <option name="totallyTimeSpent" value="34730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -341,10 +350,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31724137" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3986207" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3324138" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19386107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19386107" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -372,27 +381,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S7_FibSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S2_ReplaceSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S3_RevertLinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sumey/writenExam/meituan/FindInterval.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -633,13 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S1_FindIntwoDimen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S2_ReplaceSpace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -733,11 +714,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S1_FindIntwoDimen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-543">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-703">
+          <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S11_numberOf1_InBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S12_doublePower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <first_editor relative-caret-position="303">
+            <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
           </first_editor>
           <second_editor />
         </state>
