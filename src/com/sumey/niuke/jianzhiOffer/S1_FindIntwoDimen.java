@@ -46,6 +46,39 @@ public class S1_FindIntwoDimen {
         return false;
     }
 
+    //简单修改了一下，全过了
+    public boolean Find2(int target, int[][] array) {
+        if (0 == array[0].length) {
+            return false;
+        }
+        int row = array.length;
+        int col = array[0].length;
+
+
+        for (int i = 0; i < row; i++) {
+            if (target > array[i][col - 1]) {
+                continue;
+            }
+
+            //二分查找
+            int low = 0;
+            int high = col - 1;
+            int middle = 0;
+            while (low <= high) {
+                middle = (low + high) >> 1;
+                if (array[i][middle] == target) {
+                    return true;
+                }
+                if (array[i][middle] > target) {
+                    high = middle - 1;
+                } else if (array[i][middle] < target) {
+                    low = middle + 1;
+                }
+            }
+        }
+        return false;
+    }
+
     //参考解法
     public static boolean FindOptimize(int target, int[][] array) {
         int row = array.length;
