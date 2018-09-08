@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32e8095f-8d6f-4ddb-afd5-beb7b7092c25" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="32e8095f-8d6f-4ddb-afd5-beb7b7092c25" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="S6_minOfRevertArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="S6_minOfRevertArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S6_minOfRevertArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
@@ -75,15 +73,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="S4_ReConStructBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S4_ReConStructBinaryTree.java">
+      <file leaf-file-name="S8_jumpFloor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S8_jumpFloor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="25" column="87" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
-              <folding>
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="S10_rectCover.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S10_rectCover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="S9_jumpFloor2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S9_jumpFloor2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -93,24 +105,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="S2_ReplaceSpace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S2_ReplaceSpace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="S3_RevertLinkList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S3_RevertLinkList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -159,6 +153,9 @@
         <option value="$PROJECT_DIR$/src/com/sumey/writenExam/meituan/FindInterval.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S6_minOfRevertArray.java" />
+        <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S8_jumpFloor.java" />
+        <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S9_jumpFloor2.java" />
+        <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S10_rectCover.java" />
       </list>
     </option>
   </component>
@@ -239,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindInterval">
+  <component name="RunManager" selected="Application.S10_rectCover">
     <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sumey.base.dynamic.Dijkstra" />
       <module name="java" />
@@ -270,8 +267,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="S7_FibSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sumey.niuke.jianzhiOffer.S7_FibSequence" />
+    <configuration name="S10_rectCover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sumey.niuke.jianzhiOffer.S10_rectCover" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -291,19 +288,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.S7_FibSequence" />
       <item itemvalue="Application.Floyd" />
       <item itemvalue="Application.Dijkstra" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.FindInterval" />
+      <item itemvalue="Application.S10_rectCover" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S10_rectCover" />
         <item itemvalue="Application.FindInterval" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Dijkstra" />
         <item itemvalue="Application.Floyd" />
-        <item itemvalue="Application.S7_FibSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -321,12 +318,12 @@
       <workItem from="1535971414391" duration="5431000" />
       <workItem from="1536064287926" duration="7789000" />
       <workItem from="1536231824846" duration="5642000" />
-      <workItem from="1536397724943" duration="791000" />
+      <workItem from="1536397724943" duration="2429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30823000" />
+    <option name="totallyTimeSpent" value="32461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -334,6 +331,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -341,11 +339,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31833333" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1724138" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31724137" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1724138" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19386107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19386107" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -359,7 +357,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,31 +371,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sumey/base/dynamic/Floyd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sumey/base/dynamic/Dijkstra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1691">
-          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S4_ReConStructBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="25" column="87" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
-          <folding>
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S7_FibSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -746,6 +718,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S9_jumpFloor2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S8_jumpFloor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S10_rectCover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
