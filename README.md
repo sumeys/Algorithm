@@ -25,3 +25,5 @@
 * [笔试题目](src/com/sumey/writenExam)
     * [美团](src/com/sumey/writenExam/meituan)
         * [找满足条件的区间](src/com/sumey/writenExam/meituan/FindInterval.java)
+    * [京东](src/com/sumey/writenExam/jingdong)   
+        * [求残次品的个数](src/com/sumey/writenExam/jingdong/FindUnqualified.java) 
