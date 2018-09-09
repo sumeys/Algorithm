@@ -21,7 +21,7 @@
         * [15.反转链表](src/com/sumey/niuke/jianzhiOffer/S15_RevertLinkList.java)
         * [16.Merge链表](src/com/sumey/niuke/jianzhiOffer/S16_MergeLinkList.java)
         * [17.判断一棵树是不是另一棵树的子树](src/com/sumey/niuke/jianzhiOffer/S17_HasSubtree.java)
-        * [16.二叉树的镜像](src/com/sumey/niuke/jianzhiOffer/S18_Mirror.java)
+        * [18.二叉树的镜像](src/com/sumey/niuke/jianzhiOffer/S18_Mirror.java)
 * [笔试题目](src/com/sumey/writenExam)
     * [美团](src/com/sumey/writenExam/meituan)
         * [找满足条件的区间](src/com/sumey/writenExam/meituan/FindInterval.java)
