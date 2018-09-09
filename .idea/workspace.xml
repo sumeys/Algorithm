@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32e8095f-8d6f-4ddb-afd5-beb7b7092c25" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,14 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="303">
-                <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
+              <first_editor relative-caret-position="289">
+                <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="S13_reOrderArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S13_reOrderArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -67,23 +75,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindInterval.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sumey/writenExam/meituan/FindInterval.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-              <folding>
-                <element signature="e#1718#1719#0" expanded="true" />
-                <element signature="e#1740#1741#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="S6_minOfRevertArray.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="S6_minOfRevertArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S6_minOfRevertArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="73">
               <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
             </state>
           </provider>
@@ -165,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S11_numberOf1_InBinary.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S11_doublePower.java" />
         <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S12_doublePower.java" />
+        <option value="$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S13_reOrderArray.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -246,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.S10_rectCover">
+  <component name="RunManager" selected="Application.S13_reOrderArray">
     <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sumey.base.dynamic.Dijkstra" />
       <module name="java" />
@@ -267,18 +263,18 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Floyd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sumey.base.dynamic.Floyd" />
+    <configuration name="S10_rectCover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sumey.niuke.jianzhiOffer.S10_rectCover" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sumey.base.dynamic.*" />
+          <option name="PATTERN" value="com.sumey.niuke.jianzhiOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="S10_rectCover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sumey.niuke.jianzhiOffer.S10_rectCover" />
+    <configuration name="S13_reOrderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sumey.niuke.jianzhiOffer.S13_reOrderArray" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -298,19 +294,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Floyd" />
       <item itemvalue="Application.Dijkstra" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.FindInterval" />
       <item itemvalue="Application.S10_rectCover" />
+      <item itemvalue="Application.S13_reOrderArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S13_reOrderArray" />
         <item itemvalue="Application.S10_rectCover" />
         <item itemvalue="Application.FindInterval" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Dijkstra" />
-        <item itemvalue="Application.Floyd" />
       </list>
     </recent_temporary>
   </component>
@@ -328,12 +324,12 @@
       <workItem from="1535971414391" duration="5431000" />
       <workItem from="1536064287926" duration="7789000" />
       <workItem from="1536231824846" duration="5642000" />
-      <workItem from="1536397724943" duration="4698000" />
+      <workItem from="1536397724943" duration="7661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34730000" />
+    <option name="totallyTimeSpent" value="37693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -349,8 +345,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31724137" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3324138" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31724137" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4951724" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19386107" />
@@ -381,17 +377,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sumey/writenExam/meituan/FindInterval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="e#1718#1719#0" expanded="true" />
-            <element signature="e#1740#1741#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -686,13 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S6_minOfRevertArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S9_jumpFloor2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -746,13 +724,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S13_reOrderArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="303">
-            <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
+          <first_editor relative-caret-position="289">
+            <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sumey/niuke/jianzhiOffer/S6_minOfRevertArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
         </state>
       </provider>
     </entry>
