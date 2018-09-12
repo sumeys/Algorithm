@@ -27,3 +27,5 @@
         * [找满足条件的区间](src/com/sumey/writenExam/meituan/FindInterval.java)
     * [京东](src/com/sumey/writenExam/jingdong)   
         * [求残次品的个数](src/com/sumey/writenExam/jingdong/FindUnqualified.java) 
+    * [迅雷](src/com/sumey/writenExam/xunlei)
+        *[求素勾股数](src/com/sumey/writenExam/xunlei/Gougushu.java)
