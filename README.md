@@ -31,4 +31,8 @@
     * [京东](src/com/sumey/writenExam/jingdong)   
         * [求残次品的个数](src/com/sumey/writenExam/jingdong/FindUnqualified.java) 
     * [迅雷](src/com/sumey/writenExam/xunlei)
-        *[求素勾股数](src/com/sumey/writenExam/xunlei/Gougushu.java)
+        * [求素勾股数](src/com/sumey/writenExam/xunlei/Gougushu.java)
+    * [爱奇艺](src/com/sumey/writenExam/aiqiyi)
+        * [局长的食物](src/com/sumey/writenExam/aiqiyi/Food.java)
+        * [幸运数字](src/com/sumey/writenExam/aiqiyi/LuckNumber.java)
+ 
