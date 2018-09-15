@@ -25,6 +25,8 @@
         * [19.顺时针打印矩阵](src/com/sumey/niuke/jianzhiOffer/S19_printMatrix.java)
         * [20.求栈中的最小元素](src/com/sumey/niuke/jianzhiOffer/S20_minInStack.java)
         * [21.判断一个序列是不是一个栈的出栈序列](src/com/sumey/niuke/jianzhiOffer/S21_isPopOrder.java)
+        * [22.层序打印树](src/com/sumey/niuke/jianzhiOffer/S22_PrintFromTopToBottom.java)
+        * [23.判断次序是不是二叉搜索树的后序](src/com/sumey/niuke/jianzhiOffer/S23_VerifySquenceOfBST.java)
 * [笔试题目](src/com/sumey/writenExam)
     * [美团](src/com/sumey/writenExam/meituan)
         * [找满足条件的区间](src/com/sumey/writenExam/meituan/FindInterval.java)
